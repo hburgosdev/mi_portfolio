@@ -8,7 +8,7 @@ Mi portafolio hecho en HTML y CSS.
 * [Portfolio web]()
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+- [https://hburgosdev.github.io/mi_portfolio/](https://hburgosdev.github.io/mi_portfolio/)
 
 ## Instalación
 Este proyecto no necesita de instalación.
