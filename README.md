@@ -4,11 +4,11 @@ Mi portafolio hecho en HTML y CSS.
 ## Autor
 ** Harold Fernando Burgos Farias **
 
-* [LinkedIn]{https://www.linkedin.com/in/hburgosdev/}
-* [Portfolio web]{}
+* [LinkedIn](https://www.linkedin.com/in/hburgosdev/)
+* [Portfolio web]()
 
 ## Ver ejemplo en vivo
-
+- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
 ## Instalación
 Este proyecto no necesita de instalación.
